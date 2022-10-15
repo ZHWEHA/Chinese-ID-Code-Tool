@@ -13,6 +13,3 @@
 ![e487a8428500952faa80dbace5f60fa](https://user-images.githubusercontent.com/108223964/195846627-ab08cec4-d582-4812-80fc-86c9cbba5e62.jpg)
 
 ![cda426f8b6d7a074568f2ed7c2276a2](https://user-images.githubusercontent.com/108223964/195846632-5ca59a48-f88f-4903-9e93-67097910cc92.jpg)
-
-![a0d76bb48f453874598cc197d4982f4](https://user-images.githubusercontent.com/108223964/195846646-b162dfe1-4d23-4396-8c90-c12bd351bc37.jpg)
-
