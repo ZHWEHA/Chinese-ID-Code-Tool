@@ -1,5 +1,5 @@
-# Chinese-ID-Code-Maker
-##中国身份证
+# Chinese-ID-Code-Tool
+##身份证工具
 1. 随机生成
 2. 自定义生成
 3. 计算校验码
